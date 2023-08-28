@@ -1,6 +1,6 @@
 {
   "name": "script-publications-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool to get publications list from DBLP as a table in LaTeX or in BibTeX for references.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/javascriptf/script-publications-list/issues"
   },
-  "homepage": "https://github.com/javascriptf/script-publications-list#readme"
+  "homepage": "https://github.com/javascriptf/script-publications-list#readme",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
 }
