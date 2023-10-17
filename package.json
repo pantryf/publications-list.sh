@@ -1,6 +1,6 @@
 {
   "name": "script-publications-list",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "description": "A tool to get publications list from DBLP as a table in LaTeX or in BibTeX for references.",
   "main": "index.js",
   "scripts": {
