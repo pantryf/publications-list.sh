@@ -45,3 +45,4 @@ $ node index.js bibtex https://dblp.org/pid/XX/YYYY.html -o output.bib --author 
 [![](https://img.youtube.com/vi/yqO7wVBTuLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=yqO7wVBTuLw)<br>
 [![ORG](https://img.shields.io/badge/org-javascriptf-green?logo=Org)](https://javascriptf.github.io)
 [![DOI](https://zenodo.org/badge/684248164.svg)](https://zenodo.org/doi/10.5281/zenodo.10014626)
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/publications-list.sh)
